@@ -1,0 +1,5 @@
+{
+  "tasks": {
+	"compile": "deno compile -A --unstable-ffi --no-check game.ts"
+  }
+}
